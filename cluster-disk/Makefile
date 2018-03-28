@@ -1,8 +1,8 @@
 CC=gcc
-CFLAGS=-g -Wall -O2 -lpthread
+CFLAGS=-g -Wall -O0 -lpthread -pthread -std=c99
 
 all:
-	$(CC) $(CFLAGS) -o MyDiskBench MyDiskBench.c
+	$(CC) $(CFLAGS) -o mydiskbenchmark MyDiskBenchmark.c
 
 clean:
-	$(RM) *.o MyDiskBench
+	$(RM) *.o mydiskbenchmark
