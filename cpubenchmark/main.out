@@ -1,0 +1,9 @@
+
+DP
+4
+create threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+time elapsed:406.508118theoritical performance:512.000000
+ actual:2.459975writing in file

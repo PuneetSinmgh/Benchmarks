@@ -1,0 +1,39 @@
+RWS
+1
+4
+
+for blocksize 1
+create threadthread:0
+create threadthread:1
+create threadthread:2
+create threadvalues4,1values4,1thread:3
+values4,1values4,1
+ latency:-0.040538
+ time elapsed:-4.053780RWR
+1000000
+4
+create threadthread:0
+create threadthread:1
+create threadvalues4,1000000thread:2
+create threadvalues4,1000000values4,1000000thread:3
+values4,1000000
+ time elapsed:9.137160
+ throughput:10.944320RWR
+10000000
+4
+create threadthread:0
+create threadthread:1
+create threadvalues4,10000000thread:2
+create threadvalues4,10000000values4,10000000thread:3
+values4,10000000
+ time elapsed:7.089770
+ throughput:14.104830RWS
+1000
+4
+create threadthread:0
+create threadthread:1
+create threadvalues4,1000values4,1000thread:2
+create threadthread:3
+values4,1000values4,1000
+ time elapsed:30.332321
+ throughput:3.296813

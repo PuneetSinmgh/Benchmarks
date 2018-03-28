@@ -1,0 +1,691 @@
+
+
+RR
+1
+128
+creating 10g filesample.dat created
+
+ writing file
+ create threadthread:0
+
+ create threadthread:1
+
+ create threadthread:2
+
+ create threadthread:3
+
+ create threadthread:4
+
+ create threadthread:5
+
+ create threadthread:6
+
+ create threadthread:7
+file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file size set to 1Gcreate threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+create threadthread:4
+create threadthread:5
+create threadthread:6
+create threadthread:7
+create threadthread:8
+create threadthread:9
+create threadthread:10
+create threadthread:11
+create threadthread:12
+create threadthread:13
+create threadthread:14
+create threadthread:15
+create threadthread:16
+create threadthread:17
+create threadthread:18
+create threadthread:19
+create threadthread:20
+create threadthread:21
+create threadthread:22
+create threadthread:23
+create threadthread:24
+create threadthread:25
+create threadthread:26
+create threadthread:27
+create threadthread:28
+create threadthread:29
+create threadthread:30
+create threadthread:31
+create threadthread:32
+create threadthread:33
+create threadthread:34
+create threadthread:35
+create threadthread:36
+create threadthread:37
+create threadthread:38
+create threadthread:39
+create threadthread:40
+create threadthread:41
+create threadthread:42
+create threadthread:43
+create threadthread:44
+create threadthread:45
+create threadthread:46
+create threadthread:47
+create threadthread:48
+create threadthread:49
+create threadthread:50
+create threadthread:51
+create threadthread:52
+create threadthread:53
+create threadthread:54
+create threadthread:55
+create threadthread:56
+create threadthread:57
+create threadthread:58
+create threadthread:59
+create threadthread:60
+create threadthread:61
+create threadthread:62
+create threadthread:63
+create threadthread:64
+create threadthread:65
+create threadthread:66
+create threadthread:67
+create threadthread:68
+create threadthread:69
+create threadthread:70
+create threadthread:71
+create threadthread:72
+create threadthread:73
+create threadthread:74
+create threadthread:75
+create threadfile complete : 7812thread:76
+create threadthread:77
+create threadthread:78
+create threadthread:79
+create threadthread:80
+create threadthread:81
+create threadthread:82
+create threadthread:83
+create threadthread:84
+create threadthread:85
+create threadthread:86
+create threadthread:87
+create threadthread:88
+create threadthread:89
+create threadthread:90
+create threadthread:91
+create threadthread:92
+create threadthread:93
+create threadthread:94
+create threadthread:95
+create threadthread:96
+create threadthread:97
+create threadthread:98
+create threadthread:99
+create threadthread:100
+create threadthread:101
+create threadthread:102
+create threadthread:103
+create threadthread:104
+create threadthread:105
+create threadthread:106
+create threadthread:107
+create threadthread:108
+create threadthread:109
+create threadthread:110
+create threadthread:111
+create threadthread:112
+create threadthread:113
+create threadthread:114
+create threadthread:115
+create threadthread:116
+create threadthread:117
+create threadthread:118
+create threadthread:119
+create threadthread:120
+create threadthread:121
+create threadthread:122
+create threadthread:123
+create threadthread:124
+create threadthread:125
+create threadthread:126
+create threadthread:127
+file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812
+ latency:0.003055
+ time elapsed:3.055260
+ IOPS calculation
+ IOPS:327304.406250
+ writing values to output fileWR
+1
+128
+creating 10g filesample.dat created
+
+ writing file
+ create threadthread:0
+
+ create threadthread:1
+
+ create threadthread:2
+
+ create threadthread:3
+
+ create threadthread:4
+
+ create threadthread:5
+
+ create threadthread:6
+
+ create threadthread:7
+file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file size set to 1Gcreate threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+create threadthread:4
+create threadthread:5
+create threadthread:6
+create threadthread:7
+create threadthread:8
+create threadthread:9
+create threadthread:10
+create threadthread:11
+create threadthread:12
+create threadthread:13
+create threadthread:14
+create threadthread:15
+create threadthread:16
+create threadthread:17
+create threadthread:18
+create threadthread:19
+create threadthread:20
+create threadthread:21
+create threadthread:22
+create threadthread:23
+create threadthread:24
+create threadthread:25
+create threadthread:26
+create threadthread:27
+create threadthread:28
+create threadthread:29
+create threadthread:30
+create threadthread:31
+create threadthread:32
+create threadthread:33
+create threadthread:34
+create threadthread:35
+create threadthread:36
+create threadthread:37
+create threadthread:38
+create threadthread:39
+create threadthread:40
+create threadthread:41
+create threadthread:42
+create threadthread:43
+create threadthread:44
+create threadthread:45
+create threadthread:46
+create threadthread:47
+create threadthread:48
+create threadthread:49
+create threadthread:50
+create threadthread:51
+create threadthread:52
+create threadthread:53
+create threadthread:54
+create threadthread:55
+create threadthread:56
+create threadthread:57
+create threadthread:58
+create threadthread:59
+create threadthread:60
+create threadthread:61
+create threadthread:62
+create threadthread:63
+create threadthread:64
+create threadthread:65
+create threadthread:66
+create threadthread:67
+create threadthread:68
+create threadthread:69
+create threadthread:70
+create threadthread:71
+create threadthread:72
+create threadthread:73
+create threadthread:74
+create threadthread:75
+create threadthread:76
+create threadthread:77
+create threadthread:78
+create threadthread:79
+create threadthread:80
+create threadthread:81
+create threadthread:82
+create threadthread:83
+create threadthread:84
+create threadthread:85
+create threadthread:86
+create threadthread:87
+create threadthread:88
+create threadthread:89
+create threadthread:90
+create threadthread:91
+create threadthread:92
+create threadthread:93
+create threadthread:94
+create threadthread:95
+create threadthread:96
+create threadthread:97
+create threadthread:98
+create threadthread:99
+create threadthread:100
+create threadthread:101
+create threadthread:102
+create threadthread:103
+create threadthread:104
+create threadthread:105
+create threadthread:106
+create threadthread:107
+create threadthread:108
+create threadthread:109
+create threadthread:110
+create threadthread:111
+create threadthread:112
+create threadthread:113
+create threadthread:114
+create threadthread:115
+create threadthread:116
+create threadthread:117
+create threadthread:118
+create threadthread:119
+create threadthread:120
+create threadthread:121
+create threadthread:122
+create threadthread:123
+create threadthread:124
+create threadthread:125
+create threadthread:126
+create threadthread:127
+file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812file complete : 7812
+ latency:0.005548
+ time elapsed:5.548240
+ IOPS calculation
+ IOPS:180237.343750
+ writing values to output fileWR
+1
+16
+creating 10g filesample.dat created
+
+ writing file
+ create threadthread:0
+
+ create threadthread:1
+
+ create threadthread:2
+
+ create threadthread:3
+
+ create threadthread:4
+
+ create threadthread:5
+
+ create threadthread:6
+
+ create threadthread:7
+file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file size set to 1Gcreate threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+create threadthread:4
+create threadthread:5
+create threadthread:6
+create threadthread:7
+create threadthread:8
+create threadthread:9
+create threadthread:10
+create threadthread:11
+create threadthread:12
+create threadthread:13
+create threadthread:14
+create threadthread:15
+file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500
+ latency:-0.001635
+ time elapsed:-1.635400
+ IOPS calculation
+ IOPS:-611471.250000
+ writing values to output fileRR
+1
+32
+creating 10g filesample.dat created
+
+ writing file
+ create threadthread:0
+
+ create threadthread:1
+
+ create threadthread:2
+
+ create threadthread:3
+
+ create threadthread:4
+
+ create threadthread:5
+
+ create threadthread:6
+
+ create threadthread:7
+file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file size set to 1Gcreate threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+create threadthread:4
+create threadthread:5
+create threadthread:6
+create threadthread:7
+create threadthread:8
+create threadthread:9
+create threadthread:10
+create threadthread:11
+create threadthread:12
+create threadthread:13
+create threadthread:14
+create threadthread:15
+create threadthread:16
+create threadthread:17
+create threadthread:18
+create threadthread:19
+create threadthread:20
+create threadthread:21
+create threadthread:22
+create threadthread:23
+create threadthread:24
+create threadthread:25
+create threadthread:26
+create threadthread:27
+create threadthread:28
+create threadthread:29
+create threadthread:30
+create threadthread:31
+file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250
+ latency:0.003077
+ time elapsed:3.077410
+ IOPS calculation
+ IOPS:324948.593750
+ writing values to output fileWR
+1
+32
+creating 10g filesample.dat created
+
+ writing file
+ create threadthread:0
+
+ create threadthread:1
+
+ create threadthread:2
+
+ create threadthread:3
+
+ create threadthread:4
+
+ create threadthread:5
+
+ create threadthread:6
+
+ create threadthread:7
+file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file size set to 1Gcreate threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+create threadthread:4
+create threadthread:5
+create threadthread:6
+create threadthread:7
+create threadthread:8
+create threadthread:9
+create threadthread:10
+create threadthread:11
+create threadthread:12
+create threadthread:13
+create threadthread:14
+create threadthread:15
+create threadthread:16
+create threadthread:17
+create threadthread:18
+create threadthread:19
+create threadthread:20
+create threadthread:21
+create threadthread:22
+create threadthread:23
+create threadthread:24
+create threadthread:25
+create threadthread:26
+create threadthread:27
+create threadthread:28
+create threadthread:29
+create threadthread:30
+create threadthread:31
+file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250file complete : 31250
+ latency:-0.004217
+ time elapsed:-4.216930
+ IOPS calculation
+ IOPS:-237139.343750
+ writing values to output fileRR
+1
+64
+creating 10g filesample.dat created
+
+ writing file
+ create threadthread:0
+
+ create threadthread:1
+
+ create threadthread:2
+
+ create threadthread:3
+
+ create threadthread:4
+
+ create threadthread:5
+
+ create threadthread:6
+
+ create threadthread:7
+file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file size set to 1Gcreate threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+create threadthread:4
+create threadthread:5
+create threadthread:6
+create threadthread:7
+create threadthread:8
+create threadthread:9
+create threadthread:10
+create threadthread:11
+create threadthread:12
+create threadthread:13
+create threadthread:14
+create threadthread:15
+create threadthread:16
+create threadthread:17
+create threadthread:18
+create threadthread:19
+create threadthread:20
+create threadthread:21
+create threadthread:22
+create threadthread:23
+create threadthread:24
+create threadthread:25
+create threadthread:26
+create threadthread:27
+create threadthread:28
+create threadthread:29
+create threadthread:30
+create threadthread:31
+create threadthread:32
+create threadthread:33
+create threadthread:34
+create threadthread:35
+create threadthread:36
+create threadthread:37
+create threadthread:38
+create threadthread:39
+create threadthread:40
+create threadthread:41
+create threadthread:42
+create threadthread:43
+create threadthread:44
+create threadthread:45
+create threadthread:46
+create threadthread:47
+create threadthread:48
+create threadthread:49
+create threadthread:50
+create threadthread:51
+create threadthread:52
+create threadthread:53
+create threadthread:54
+create threadthread:55
+create threadthread:56
+create threadthread:57
+create threadthread:58
+create threadthread:59
+create threadthread:60
+create threadthread:61
+create threadthread:62
+create threadthread:63
+file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625
+ latency:0.003143
+ time elapsed:3.142570
+ IOPS calculation
+ IOPS:318210.875000
+ writing values to output fileWR
+1
+64
+creating 10g filesample.dat created
+
+ writing file
+ create threadthread:0
+
+ create threadthread:1
+
+ create threadthread:2
+
+ create threadthread:3
+
+ create threadthread:4
+
+ create threadthread:5
+
+ create threadthread:6
+
+ create threadthread:7
+file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file size set to 1Gcreate threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+create threadthread:4
+create threadthread:5
+create threadthread:6
+create threadthread:7
+create threadthread:8
+create threadthread:9
+create threadthread:10
+create threadthread:11
+create threadthread:12
+create threadthread:13
+create threadthread:14
+create threadthread:15
+create threadthread:16
+create threadthread:17
+create threadthread:18
+create threadthread:19
+create threadthread:20
+create threadthread:21
+create threadthread:22
+create threadthread:23
+create threadthread:24
+create threadthread:25
+create threadthread:26
+create threadthread:27
+create threadthread:28
+create threadthread:29
+create threadthread:30
+create threadthread:31
+create threadthread:32
+create threadthread:33
+create threadthread:34
+create threadthread:35
+create threadthread:36
+create threadthread:37
+create threadthread:38
+create threadthread:39
+create threadthread:40
+create threadthread:41
+create threadthread:42
+create threadthread:43
+create threadthread:44
+create threadthread:45
+create threadthread:46
+create threadthread:47
+create threadthread:48
+create threadthread:49
+create threadthread:50
+create threadthread:51
+create threadthread:52
+create threadthread:53
+create threadthread:54
+create threadthread:55
+create threadthread:56
+create threadthread:57
+create threadthread:58
+create threadthread:59
+create threadthread:60
+create threadthread:61
+create threadthread:62
+create threadthread:63
+file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625file complete : 15625
+ latency:0.002488
+ time elapsed:2.488050
+ IOPS calculation
+ IOPS:401921.187500
+ writing values to output fileRR
+1
+16
+creating 10g filesample.dat created
+
+ writing file
+ create threadthread:0
+
+ create threadthread:1
+
+ create threadthread:2
+
+ create threadthread:3
+
+ create threadthread:4
+
+ create threadthread:5
+
+ create threadthread:6
+
+ create threadthread:7
+file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file complete : 1250000file size set to 1Gcreate threadthread:0
+create threadthread:1
+create threadthread:2
+create threadthread:3
+create threadthread:4
+create threadthread:5
+create threadthread:6
+create threadthread:7
+create threadthread:8
+create threadthread:9
+create threadthread:10
+create threadthread:11
+create threadthread:12
+create threadthread:13
+create threadthread:14
+create threadthread:15
+file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500file complete : 62500
+ latency:-0.003956
+ time elapsed:-3.956490
+ IOPS calculation
+ IOPS:-252749.281250
+ writing values to output file
